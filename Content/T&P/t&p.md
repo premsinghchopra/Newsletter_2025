@@ -30,8 +30,6 @@ I extend my heartfelt gratitude to all our recruiting partners for their continu
 ## Major Recruiters
 
 \
-![MajorRecruiters](Images/major_recruiter_2024_4.jpeg)
----\
 ![MajorRecruiters](Images/major_recruiter_2024_5.jpeg)
 ---\
 ![MajorRecruiters](Images/major_recruiter_2024_6.jpeg)

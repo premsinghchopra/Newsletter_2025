@@ -6,4 +6,4 @@
 
 ![Events](Images/IS.jpeg)
 
-![Events](Images/SA and SSFS.jpeg)
+![Events](Images/SA_and_SSFS.jpeg)

@@ -1,19 +1,40 @@
-## Highlights of Events – 2025
+---
 
-![Events](Images/IAF.jpeg)
+## Industry Engagement and Recruitment Drives – 2025
 
-![Events](Images/IAF-2.jpeg)
+### Events held in collaboration with Mahindra & Mahindra
 
-![Events](Images/IS.jpeg)
+<p align="justify">
+The Training and Placement Cell organized events in collaboration with Mahindra & Mahindra to provide students with valuable industry exposure and corporate interaction opportunities. These engagements focused on strengthening industry-academia relationships and enhancing student awareness regarding real-world engineering applications, career prospects, and professional development pathways. The initiative aimed at bridging the gap between academic learning and industrial expectations while fostering recruitment opportunities for students.
+</p>
 
-![Events](Images/SA_and_SSFS.jpeg)
+<br>
 
-![Events](Images/Cognizant.jpeg)
+### Major Recruitment Drives and Industry Visits – 2025
 
-![Events](Images/TCS_1.jpeg)
+<div align="center">
 
-![Events](Images/TCS_2.jpeg)
+<table>
+<tr>
+<td><img src="Images/IAF.jpeg" width="300"></td>
+<td><img src="Images/IAF-2.jpeg" width="300"></td>
+<td><img src="Images/IS.jpeg" width="300"></td>
+</tr>
 
-![Events](Images/TCS_3.jpeg)
+<tr>
+<td><img src="Images/SA_and_SSFS.jpeg" width="300"></td>
+<td><img src="Images/Cognizant.jpeg" width="300"></td>
+<td><img src="Images/TCS_1.jpeg" width="300"></td>
+</tr>
 
-![Events](Images/TCS_4.jpeg)
+<tr>
+<td><img src="Images/TCS_2.jpeg" width="300"></td>
+<td><img src="Images/TCS_3.jpeg" width="300"></td>
+<td><img src="Images/TCS_4.jpeg" width="300"></td>
+</tr>
+
+</table>
+
+</div>
+
+---

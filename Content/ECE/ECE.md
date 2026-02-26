@@ -215,7 +215,7 @@ Dr. Munish Rattan
 
 ## Expert Lecture delivered
 
-![Students](Images/[IMG_6458%20(1).JPG)]
+![Students](Images/[IMG_6458%20(1).JPG)
 
 - **Gurpurneet Kaur**, delivered expert lecture on Counter Design using HDL, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on FPGA Implementation of Counter Design, at SLIET, Longowal, 25/11/2024 – 29/11/2024; delivered expert lecture on Overview of HDL using Vivado Design Suite, at GNDEC, Ludhiana, 16/12/2024 – 21/12/2024; delivered expert lecture on Enhancing Energy Efficiency in VLSI Circuits through GA and WOA-based Optimization Techniques, at GNDEC, Ludhiana (in collaboration with NITTTR, Chandigarh), 14/07/2025 – 18/07/2025; and delivered expert lecture on Mini Projects using Raspberry Pi, at GNDEC, Ludhiana, 19/02/2025 – 05/03/2025.
 

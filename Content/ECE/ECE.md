@@ -232,19 +232,19 @@ Dr. Munish Rattan
 
 | Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
 |:--------|:----------------|:--------------|:---------|:--------|:---------------------|
-| 1     | Expert Talk on PLC by Satnam Singh                | Dr. Shivmanmeet Singh | 1 day    | 14-08-2024      | IETE GNDEC                      |
-| 2     | Core Team Meeting                                 | Dr. Shivmanmeet Singh | 1 day    | 20-08-2024      | IETE GNDEC                      |
-| 3     | Workshop on Cyber Security                         | Dr. Shivmanmeet Singh | 1 day    | 03-09-2024      | IETE GNDEC                      |
-| 4     | Hands on Experience                               | Dr. Shivmanmeet Singh | 1 day    | 11-10-2024      | IETE GNDEC                      |
-| 5     | Digital Artistry                                  | Dr. Shivmanmeet Singh | 1 day    | 14-10-2024      | IETE GNDEC                      |
-| 6     | 2-day Workshop                                   | Dr. Shivmanmeet Singh | 2 days   | 28-10-2024      | IETE GNDEC                      |
-| 7     | 3D-Printing Workshop                             | Dr. Shivmanmeet Singh | 1 day    | 13-11-2024      | IETE GNDEC                      |
-| 8     | Technova                                         | Dr. Shivmanmeet Singh | 1 day    | 25-11-2024      | IETE GNDEC                      |
-| 9     | Electrified Quizzers                             | Dr. Shivmanmeet Singh | 1 day    | 03-02-2025      | IETE GNDEC                      |
-| 10    | Mobile Chipset Repair Workshop                   | Dr. Shivmanmeet Singh | 1 day    | 11-04-2025      | IETE GNDEC                      |
-| 11    | Guess-a-graphy                                   | Dr. Shivmanmeet Singh | 1 day    | 23-04-2025      | IETE GNDEC                      |
-| 12    | Visit to PEC                                     | Dr. Shivmanmeet Singh | 1 day    | 26-03-2025      | IETE GNDEC                      |
-| 13    | One Week Short Term Course on “AI applications in VLSI design” | Dr. Chahat Jain       | 5 days   | July 14-18, 2025 | NITTTR Chandigarh and GNDEC     |
+| 1     | Expert Talk on PLC by Satnam Singh                             | **Dr. Shivmanmeet Singh** | 1 day    | 14-08-2024      | IETE GNDEC                      |
+| 2     | Core team Meeting                                              | **Dr. Shivmanmeet Singh** | 1 day    | 20-08-2024      | IETE GNDEC                      |
+| 3     | Workshop on cyber security                                     | **Dr. Shivmanmeet Singh** | 1 day    | 03-09-2024      | IETE GNDEC                      |
+| 4     | Hands on experience                                            | **Dr. Shivmanmeet Singh** | 1 day    | 11-10-2024      | IETE GNDEC                      |
+| 5     | digital Artistry                                              | **Dr. Shivmanmeet Singh** | 1 day    | 14-10-2024      | IETE GNDEC                      |
+| 6     | 2-day Workshop                                                | **Dr. Shivmanmeet Singh** | 2 days   | 28-10-2024      | IETE GNDEC                      |
+| 7     | 3D- printing workshop                                         | **Dr. Shivmanmeet Singh** | 1 day    | 13-11-2024      | IETE GNDEC                      |
+| 8     | Technova                                                     | **Dr. Shivmanmeet Singh** | 1 day    | 25-11-2024      | IETE GNDEC                      |
+| 9     | Electrified Quizzers                                         | **Dr. Shivmanmeet Singh** | 1 day    | 03-02-2025      | IETE GNDEC                      |
+| 10    | visit to PEC                                                | **Dr. Shivmanmeet Singh** | 1 day    | 26-03-2025      | IETE GNDEC                      |
+| 11    | Mobile chipset repair workshop                              | **Dr. Shivmanmeet Singh** | 1 day    | 11-04-2025      | IETE GNDEC                      |
+| 12    | Guess-a-graphy                                             | **Dr. Shivmanmeet Singh** | 1 day    | 23-04-2025      | IETE GNDEC                      |
+| 13    | One week short term course on “AI applications in VLSI design” in collaboration with NITTTR, Chandigarh | **Dr. Chahat Jain**       | 5 days   | July 14-18, 2025 | NITTTR Chandigarh and GNDEC     |
 
 ## Expert Lecture delivered
 

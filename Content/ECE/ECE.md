@@ -224,22 +224,31 @@ Dr. Munish Rattan
 
 #### - Student's Achievements
 
-![Students](Images/PP2.jpg)
+**Navjot Singh (URN: 2435424)** participated in multiple events including *Reel and Video Making Competition*, *Cut to Campus E-Vision* at GNDEC, *Social Media Campaign* at CGC Mohali, *Tech Reel* at Khalsa College, and *Video Editing Workshop* at GNDEC, securing **1st place in all events**, 26-07-2024.  
 
-- **Jagjot Singh(URN:2104387)** CSAW 2024(BioHack3d)- Third Prize
+**Rishu Jaiswal (URN: 2435436)** participated in *CraftPrix 2.0* at GNDEC Ludhiana and secured **2nd place**, 13-02-2025.  
 
-----------------------------------------
-![Students](Images/anm.jpeg)
+**Aasa Singh (URN: 2302844)** participated in *Genconian CraftPrix 2.0* at Guru Nanak Dev Engineering College and secured **1st place** in RC Car Competition, 13-02-2025.  
 
-![Students](Images/anm1.jpeg)
+**Krishan Kumar (URN: 2435418)** participated in *Re Brand* at Guru Nanak Dev Engineering College, securing **3rd place**, 06-02-2025.  
 
-- **Anmol Kumar Srivastav(URN:2134680)** represented the drone in IIT Roorkee and Secured 2nd place in RC car race event
------------------------------------------
+**Arnav Bhardwaj (URN: 2302860)** participated in *Guess a Graphy* at GNDEC and secured **2nd place**, 23-04-2025.  
 
-![Students](Images/w.jpeg)
+**Harsimran Kaur Bhatti (URN: 2435473)** participated in *Poster Making Competition* on 24-04-2025 and *Tech X Tambola* on 16-09-2025 at GNDEC College, securing **3rd position in Poster Making** and **2nd position in Tech X Tambola**.  
 
-- **Mohammad Yasir(URN:2104400)** launched his application on "National Workshop on Lifestyle for Environment" for Ministry of Forest and Climate organized at Indira Paryavaran Bhawan Headquarters, Ministry of Forest and Climate Change, Govt of India. The Ministry of Forest and Climate Change conducteds this event and invited more than 2000 school children, ENVIS partners from all the states of India. Applications namely,
-i)Water Footprint Calculator ii)Wetlands in India iii)Traditional Water Management Practice.
+**Gurleen Kaur (URN: 2302872)** participated in *Future Design Hackathon 2025* (National Level) online and secured **1st place**, 02-05-2025.  
+
+**Gurjot Singh (URN: 2203718)** participated in *Inter College Hockey Tournament* at SVIET and secured **2nd place** while playing as a captain, 11-11-2025.  
+
+**Armaan Dugh (URN: 2302859)** participated in *Hacknauts – Code for Change: Campus Edition* at MBA Block, GNDEC, and was declared **winner**, 16-11-2025.  
+
+**Snover (URN: 2435447)** participated in *Idea and Innovation Competition* at Vijaywada, securing **4th place**, 16-11-2025.  
+
+**Snover (URN: 2435447)** participated in *Drone Camp and IIC* at GNDEC and Vijaywada, securing **4th place in both competitions**, 02-01-2026.  
+
+**Krishan Kumar (URN: 2435418)** participated in *MERAKI Hack-the-Throne* Hackathon at IIIT UNA (National Level) – Participation, 07-02-2026.  
+
+**Jagjot Singh (URN: 2104387)** secured *Third Prize* in **CSAW 2024 (BioHack3D)**.  
 
 -----------------------------------------
 

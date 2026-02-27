@@ -27,54 +27,6 @@ Dr. Munish Rattan
 
 -----------------------------------------
 
-### ECE faculties at Semicon Roadshow on 27 Feb, 2023
-
-![Students](Images/w.png)
-
-![Students](Images/x.png)
-
------------------------------------------
-
-### Two Days workshop on 3D Printing (The Future Generation Technology) from 2, May 2023 to 3, May 2023
-
-![Students](Images/CP.png)
-
-
-------------------------------------------
-
-###  Industrial Visit to BSNL Ludhiana in relation with Four week Training course on Digital Designing and Secured Wireless Communication from 10, July 2023 to 4, Aug 2023
-
-![Students](Images/GCNT.jpg)
-![Students](Images/GCN.jpg)
-
-------------------------------------------
-
-###  Four week Training course on Project Design using Microcontroller Consultancy from 10, July 2023 to 4, Aug 2023
-
-![Students](Images/SMMT.jpg)
-![Students](Images/SMM.jpg)
-
----------------------------------------
-
-### Teachers Day Celebration at ECE Department on 5, Sept 2023
-
-![Students](Images/TD.jpg)
-
------------------------------------------
-
-### E-Vision 2023 organized by IETE Student Forum on 06, Oct 2023
-
-![Students](Images/EV.jpg)
-![Students](Images/EVS.png)
-
------------------------------------------
-
-### Two weeks value added workshop on "Hands-on Training Program on Development in Communication Engineering and Electronics" under IETE Student Forum from 19, Feb 2024 to 1, Mar 2024
-
-![Students](Images/VAT.jpg)
-![Students](Images/VA.jpg)
-
------------------------------------------
 
 ### Four Week Training on Project Design using Microcontroller Consultancy from 5, June 2024 to 5, July 2024
 
@@ -96,13 +48,6 @@ Dr. Munish Rattan
 
 -----------------------------------------
 
-### Online Talk with IIT Madras on Optical Communication, 2024
-
-![Students](Images/z.png)
-
-![Students](Images/y.png)
-
------------------------------------------
 
 
 ## Faculty Achievements  

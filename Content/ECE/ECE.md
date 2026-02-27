@@ -344,7 +344,7 @@ Dr. Munish Rattan
 -----------------------------------------
 ### Electrified Quizzer
 
-![Advisor Session (Wireless Communication)](Images/electrified quizzer (1).JPG)
+![Electrified Quizzer](Images/electrified quizzer(1).JPG)
 
 - <div align="jutify">ISF hosted a Fun-Techno event titled "Electrified Quizzers" on February 3, 2025. During this event, participants were grouped into teams of two. In the first round, the teams were asked to answer 30 electronics-based questions, with a time limitof 10 seconds per question. The top five teams were selected to proceed to the second round, where participants competed individually to solve 20 questions,again with a 10-second time limit per question. From this round, the top five students were chosen and invited to the final round, where they had to answer 10 questions. This event was designed to challenge students' knowledge and quick thinking while promoting a spirit of friendly competition.</div>
 

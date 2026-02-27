@@ -210,9 +210,104 @@ Dr. Munish Rattan
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
-| Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
-|:--------|:----------------|:--------------|:---------|:--------|:---------------------|
+### Preeti Pannu
 
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 1 | "One week FDP on IOT and Ubiquitous computing for emerging technical applications(ISTE approved)" | 1 week | 26-30 Aug, 2024 | Vidyalankar Polytechnic, Staff Development committee |
+| 2 | "One week STC on Microstrip patch antenna design techniques and tools" | 1 week | 16 -20 Sept, 2024 | NITTTR, Chandigarh |
+| 4 | One day workshop on swayam nptel | 1 day | 17 April,2025 | IIT Kanpur at GNDEC LUDHIANA |
+| 3 | Two week FDP on Reconfigurable FPGA and Internet of Things | 2 weeks | 21 April-2 May, 2025 | E&ICT Academy PDPM IIITDM Jabalpur |
+| 5 | Demonstration on how to access IEEE and EBSCO journals in digital library | 1 day | 12 May 2025 | GNDEC Ludhiana |
+| 6 | "Webinar on ""Truth in AI Systems"" by DELNET. Truth in AI Systems"" by Prof. Naveen Kumar, Sr. Professor,Dept of Computer Science,University of Delhi" | 1 day | 30 May 2025 | I.K. Gujral Punjab Technical University Office of Dean (Research & Development) |
+
+---
+
+### Harminder Kaur D/o S. Avtar Singh
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 7 | IOT and Ubiquitous Computing for Emerging Technical Applications | 5 days | 26-30 Aug, 2024 | Vidyalankar Polytechnic college Approved by Indian Society for Technical Education, New Delhi |
+| 8 | Reconfigurable FPGA and Internet of Things | 2 Week | 21 April-2 May, 2025 | Electronics and ICT Academy (Phase-II), Pandit Dwarka Prasad Mishra Indian Institute of Information Technology, Design and Manufacturing, Jabalpur |
+| 23 | International Conference on Sustainable Developments in Computational Optimization and Intelligent systems BGIET Sangrur | 2 days | 24-25 April, 2025 | BGIET Sangrur |
+
+---
+
+### Narwant Singh Grewal
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 9 | Python for data sciences (NPTEL) | 4 Week | July-August, 2024 | IIT, Madras |
+
+---
+
+### Gurjot Kaur Walia
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 10 | UGC Zonal Conference on "Implementation on NEP 2020" | 1 day | 02 December 2024 | DAVV, Indore |
+| 11 | Future-Proofing India's Semiconductor Industry: Building a Skilled Workforce | 1 Week | 16-21 Dec, 2024 | GNDEC Ludhiana |
+| 12 | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 week | 10-15 Feb, 2025 | MM Engineering College, Mullana- Ambala |
+
+---
+
+### Navneet Kaur
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 13 | Workshop on “Photonic Sensors for Biosensing Applications” | 3 Day | 17-19 Oct, 2024 | ISM, Dhanbad |
+| 14 | UGC Zonal Conference on "Implementation on NEP 2020" | 1 day | 02 Dec,2024 | DAVV, Indore |
+| 15 | AICTE ATAL FDP on "Future Tech Revealed: Semiconductors, Quantum Computing, and Data Storage Insights” | 1 week | 20-25 Jan, 2025 | COEP, Technological University |
+| 16 | AICTE ATAL FDP on “Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025)” | 1 week | 10-15 Feb, 2025 | MM Engineering College, Mullana- Ambala |
+| 17 | International Conference on the theme “Indian Knowledge System: From Glorious Past to Bright Future" | 2 day | 04-05 April, 2025 | Maharaja Agrasen University, IKGPTU and Baba Mastnath University |
+| 18 | One day workshop " ISRO Academia Connect for Northern Region" | 1 day | 08 April 2025 | NIT, Kurukshetra |
+
+---
+
+### Gurpurneet Kaur
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 19 | ISTE Approved One Week Online FDP on IOT and Ubiquitous Computing for Emerging Technical Applications | 1 week | 26-30 Aug,2024 | Vidyalankar Polytechnic College, Wadalam Mumbai |
+| 20 | Future-Proofing India's Semiconductor Industry: Building a Skilled Workforce | 1 week | 16-21 Dec, 2024 | GNDEC Ludhiana |
+
+---
+
+### Kuldeepak Singh
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 21 | AI for Engineering Applications | 1 week | 04-08 Nov, 2024 | NITTTR, Chandigarh |
+| 22 | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 week | 10-15 Feb, 2025 | MM Engineering College, Mullana- Ambala |
+
+---
+
+### Daljit Singh
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 24 | AI for Engineering Applications | 1 week | 04-08 Nov, 2024 | NITTTR, Chandigarh |
+| 25 | Drone Technologies, Opportunities and Regulations | 1 week | 18-22 Nov, 2024 | NITTTR, Chandigarh |
+| 26 | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 week | 10-15 Feb, 2025 | MM Engineering College, Mullana- Ambala |
+
+---
+
+### Simranjit Kaur
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 27 | STC on "Microstrip Patch Antenna design Techniques and Tools " | 1 week | 16-20 Sept, 2024 | NITTTR, Chandigarh |
+| 28 | ATAL FDP on "Future proofing india's semiconductor industry: Building a skilled workforce" | 1 week | 16-21 Dec,2024 | GNDEC Ludhiana |
+| 29 | Technological Innovations in Climate Change Adaptation for Sustainability (TICCAS-2025) | 1 week | 10-15 Feb, 2025 | MM Engineering College, Mullana- Ambala |
+| 30 | Workshop on " IP Blueprint: Navigating Intellectual Property" | 1 day | 15 April 2025 | Sponsored by Punjab State Council, GNDEC Ludhiana |
+
+---
+
+### Harleen Kaur
+
+| Sr.No. | Name of Event | Duration | Date(s) | Organizing Institute |
+|--------|--------------|----------|----------|----------------------|
+| 31 | FDP on Computer Vision in Autonomous Driving | 1 Week | 24-28 Feb, 2025 | VIT, Chennai |
 
 ## Expert Lecture delivered
 

@@ -22,8 +22,8 @@
   <td><img src="Images/glimpses/9.jpeg" width="450"></td>
 </tr>
 <tr>
+  <td><img src="Images/glimpses/15.jpeg" width="450"></td>
   <td><img src="Images/glimpses/10.jpeg" width="450"></td>
-  <td><img src="Images/glimpses/11.jpeg" width="450"></td>
 </tr>
 </table>
 </div>

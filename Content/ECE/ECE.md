@@ -367,11 +367,15 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 #### - Student's Achievements
 
-![Students](Images/HH1.png) ![Students](Images/HH2.png) ![Students](Images/HH3.png) ![Students](Images/HH4.png) ![Students](Images/HH5.png)
+![Students](Images/HH1.png) ![Students](Images/HH2.png) ![Students](Images/HH3.png)  ![Students](Images/HH5.png)
 
-**Tanmay Kaushal (URN: 2302934)** participated in *All Inida Basic Mountaineering Couse* at Nehru Institute Of Mountaineering  and Awaded as **Best Mountanier** among Punjab Haryana Himachal Pardesh & Chandigarh Directorate , 08-10-2025.  
+**Tanmay Kaushal (URN: 2302934)** participated in *All Inida Basic Mountaineering Couse* at Nehru Institute Of Mountaineering (National Level) and Awaded as **Best Mountanier** among Punjab Haryana Himachal Pardesh & Chandigarh Directorate , 08-10-2025.  
 
 **Krishan Kumar (URN: 2435418)** participated in *Re Brand* at Guru Nanak Dev Engineering College, securing **3rd place**, 06-02-2025 &  *MERAKI Hack-the-Throne* Hackathon at IIIT UNA (National Level) – Participation, 07-02-2026.   
+
+**Rishu Jaiswal (URN: 2435436)** participated in *Craft-Prix 2.0* at Guru Nanak Dev Engineering College, securing **2nd place**, 13-02-2025.  
+
+**Harsimran Kaur Bhatti (URN: 2435473)** participated in *Poster Making Competition* on 24-04-2025 and *Tech X Tambola* on 16-09-2025 at GNDEC College, securing **3rd position in Poster Making** and **2nd position in Tech X Tambola**.  
 
 **Navjot Singh (URN: 2435424)** participated in multiple events including *Reel and Video Making Competition*, *Cut to Campus E-Vision* at GNDEC, *Social Media Campaign* at CGC Mohali, *Tech Reel* at Khalsa College, and *Video Editing Workshop* at GNDEC, securing **1st place in all events**, 26-07-2024.  
 
@@ -379,7 +383,6 @@ Co-Coordinator: Dr. Gurjot Kaur Walia and Dr. Preeti Pannu
 
 **Arnav Bhardwaj (URN: 2302860)** participated in *Guess a Graphy* at GNDEC and secured **2nd place**, 23-04-2025.  
 
-**Harsimran Kaur Bhatti (URN: 2435473)** participated in *Poster Making Competition* on 24-04-2025 and *Tech X Tambola* on 16-09-2025 at GNDEC College, securing **3rd position in Poster Making** and **2nd position in Tech X Tambola**.  
 
 **Gurleen Kaur (URN: 2302872)** participated in *Future Design Hackathon 2025* (National Level) online and secured **1st place**, 02-05-2025.  
 

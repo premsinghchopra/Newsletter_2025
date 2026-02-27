@@ -339,7 +339,7 @@ Dr. Munish Rattan
 
 ![Advisor Session (Wireless Communication)](Images/WC2.jpg)
 
-- <div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges. </div>
+- <div align="jutify">ISF organized a Techno event based on Project Exhibition named “Technova” on 25 November, 2024. During the event, participants had the opportunity to display their projects and were required to present and explain their work to both students and judges. This provided them with a platform to showcase their ideas, strengthen their communication skills, and receive constructive feedback from the judges. </div
 
 -----------------------------------------
 ### Electrified Quizzer

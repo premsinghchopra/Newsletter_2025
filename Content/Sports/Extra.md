@@ -1,6 +1,25 @@
 # Extramural Activities
 ## PTU Inter-college Tournaments
 
+![Basketball Boys Team Winner](Images/PTU/Basketball-boys-Team-Winner-in-PTU-Inter-college-Tournament-2026.jpeg)
+
+![Chess Boys Runner-up and Girls Third](Images/PTU/Chess-boys-Team-Runner-up-and-girls-Third-in-PTU-Inter-college-Tournament-2026.jpeg)
+
+![CoA Girls Team Third](Images/PTU/CoA-girls-Team-Third-in-PTU-Inter-college-Lawn-tennis-Tournament-2026.JPG)
+
+![Cross Country Girls Team Third](Images/PTU/Cross-country-girlsTeam-Third-in-PTU-Inter-college-Tournament-2026.jpeg)
+
+![Cycling Boys and Girls Team Winner](Images/PTU/Cycling-boys-and-girls-Team-Winner-in-PTU-Inter-college-Competition-2026.JPG)
+
+![Hockey Boys Runner-up](Images/PTU/Hockey-boys-Team-Runner-up-in-PTU-Inter-college-Tournament-2026.jpeg)
+
+![Lawn Tennis Boys Runner-up](Images/PTU/Lawn-tennis-boys-Team-Runner-up-in-PTU-Inter-college-Tournament-2026.JPG)
+
+![Lawn Tennis Girls Winner](Images/PTU/Lawn-tennis-girls-Team-Winner-in-PTU-Inter-college-Tournament-2026.JPG)
+
+![PTU Best Cyclist Atanshul Parmar and Pawan Singh Bisht](Images/PTU/PTU-BEST-CYCLIST-Atanshul-Parmar-D3-B.TechECE-2203710-and-Pawan-Singh-Bisht-D4-CSE-2203523-2026.JPG)
+
+![PTU Best Cyclist Maskeenjot Kaur](Images/PTU/PTU-BEST-CYCLIST-Maskeenjot-Kaur-D3-B.Arch.-2329110-2026.JPG)
 
 ![Winner Cycling Men & Women Team](Images/PTU/BasketballBoys1st.JPG)  
 

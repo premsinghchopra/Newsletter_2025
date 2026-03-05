@@ -2,110 +2,117 @@
 
 ## Message from HoD's Desk  
 
-
 ![SDT](Images/JGS.jpg)
 
 <p align=justify>
-It is great to note that the 4th edition of online “Newsletter” is being published, which will be a compilation of all achievements of various departments/sections. The efforts of the Editorial Team is highly appreciable.
+It is a matter of pride to present the latest edition of our online “Newsletter,” which highlights the remarkable achievements of our faculty, students, and staff in the Civil Engineering Department. The dedication and efforts of the Editorial Team in compiling this edition are highly commendable.
 </p>
 
 <p align=justify>
-Our vision is to prepare every student for the construction industry and for that our faculty keep updating their knowledge by attending conferencing / workshops / seminars and also contributing to the knowledge pool by conducting research. Our department is committed to providing students with a strong, broad-based fundamental engineering education, using cutting edge technologies and modern equipment. That coupled with dedicated efforts of staff and faculty results in excellent outcomes, which make our students shine in every nook and corner of this planet.
+Our vision remains to equip every student with the knowledge and skills required for the evolving construction industry. To this end, our faculty continually update their expertise by attending conferences, workshops, seminars, and contributing to research in cutting-edge areas of civil engineering. By combining modern technologies with strong fundamental education, our department ensures that students excel in academics, research, and practical applications.
 </p>
 
 <p align=justify>
-We also impart entrepreneurial skills to students through summer internships/workshops, so that they would drive the spirit of growth of our economy and would be able to generate employment opportunities for other qualified and skilled people.
+We also focus on fostering entrepreneurial and innovative thinking through internships, workshops, and projects, enabling students to contribute to economic growth and create employment opportunities for others.
 </p>
+
 <p align=justify>
-I ensure on behalf of my faculty colleagues and staff that we will continue to strive for greater heights in teaching and research that is relevant and shall help in nation-building.
+On behalf of my faculty colleagues and staff, I reaffirm our commitment to advancing teaching, research, and consultancy that are both impactful and relevant to nation-building.
 </p>
+
 <p align=justify>
-Hope readers of this newsletter find the information therein valuable.
+I hope readers of this newsletter find the insights and achievements shared herein both informative and inspiring.
 </p>
 
 Dr. Jagbir Singh 
 HoD, Civil Engineering Department  
 
-
-## Department at Glimpse
-
-### UKIERI Concrete Congress  
-
-Department of Civil Engineering, GNDEC alongwith NIT, Jalandhar hosted 5th UKIERI Concrete Congress on **Sustainable Concrete Infrastructure** from March 14-17,2023 in virtual mode. Concrete, being the most powerful material for construction, should have minimal toxic impact on the environment. Keeping this in mind, abundant ideas with feasible solutions were presented by reseachers across world. Dr. Sehijpal Singh, Principal, GNDEC and Dr, H. S. Rai, Head of the Department of Civil Engineering, GNDEC acted as patron and co-patron for this 
-
-![Conf](Images/UKIERI.jpeg) 
-
-### Centre of Excellence on Road Safety & Traffic Management 
-
-Guru Nanak Dev Engineering College (GNDEC), Ludhiana, took a significant step forward in promoting road safety and sustainable traffic management inaugurating the Centre of Excellence on Road Safety & Traffic Management on April 8, 2023.
-
 ## Faculty Achievements  
 
-### Patent Published
+### Awards & Recognitions  
 
-Er. Balihar Singh and Dr. Puneetpal Singh Cheema published a patent named 'Sustainable Soiled Sanitary Pad Ash Based Concrete Composition and Method for Preparation Thereof'
+- **Dr. Harvinder Singh** received the *Faculty Excellence Award 2024* from the College Alumni Association.  
+- **Prof. Manvinder Kingra** was awarded a *Commonwealth Scholarship* worth ₹50 lakh to pursue higher studies in the UK.
 
-### Awards & Recognitions 
+### Sponsored Project / Grants   
 
-The ISTE Best Teacher Awards(2023) were bestowed upon the following three distinguished educators, recognizing their exceptional contributions to teaching and their dedication to excellence in education.
+- **Dr. Harvinder Singh** and **Dr. Yuvraj Singh** have been awarded an industry-sponsored project worth ₹3.54 lakh for the project titled "Utilization of Iron Dust as a Supplementary Material in Concrete and Brick Production."
 
-1. Dr. Harvinder Singh
-2. Dr. Puneetpal Singh Cheema
-4. Er. Amandeep Singh
+### Ph.D. Compelted/Guided
 
+- **Dr. Yuvraj Singh** completed Ph.D. titled *“Performance of Steel Fibre Reinforced Concrete Beams Containing Conventional Reinforcement Under Corrosive Environment”* under the guidance of Dr. Harvinder Singh.
+- **Dr. H.S. Rai & Dr. Jagbir Singh's** research scholar **Satinder Kaur** completed her PhD on *Interoperable Structural Model from Architectural Model* (January 2025).  
+- **Dr. Hardeep Singh Rai & Dr. Kulwinder Singh Mann's** research scholar **Bhupinder Kaur Srao** completed her research on *Exploiting BIM's Potential for Project Approval* (July–December 2024).  
+- **Dr. Harvinder Singh's** research scholar **Ravpreet Kaur** completed her PhD on *Flexural Response of Steel Fiber Reinforced Concrete Long Beams*.
+- **Dr. Harvinder Singh's** research scholar **Yuvraj Singh** completed his Ph.D. on *“Performance of Steel Fibre Reinforced Concrete Beams Containing Conventional Reinforcement Under Corrosive Environment”.
 
-### Publications  
+### Expert Talks Delivered  
 
+- **Dr. Puneet Pal Singh Cheema** Delivered Expert Talk on World Environment Day organized by IE, Ludhiana Chapter (02/04/2025).
 
-- [Junaid Bashir Khan, **Jagbir Singh & Yuvraj Singh.** Experimental Assessment of Unprocessed Rice Husk Ash Effects on Concrete Characteristics. (August, 2023) In: International Research Journal of Engineering and Technology (IRJET)](https://www.irjet.net/archives/V10/i8/IRJET-V10I8106.pdf) 
+- **Charnjeet Singh** Delivered multiple technical sessions on Concrete Evaluation, Lab Testing, Geotechnical Investigation & NDT in collaboration with TATA TISCON and DDMA.
 
-- [Sleek Chang, Harish Chandra Arora, Aman Kumar, Denise-Penelope N. Kontoni, Prashant Kumar, Nishant Raj Kapoor,**Jagbir Singh** Estimation of confined compressive strength of LRS-FRP concrete specimens with computational intelligence.(August, 2024) In: Journal of Applied Mathematics and Mechanics](https://doi.org/10.1002/zamm.202400455)
+- **Amandeep Singh** delivered a talk on *“Scope of Soil Mechanics Problem in Civil Engineering”* at IKG PTU Mohali Campus (Oct 1, 2024).
 
-- [Shubhendra Kumar, **Hardeep Singh Rai, Mandeep Kaur** Influence of Shredded Latex Gloves Addition on Concrete Properties.(July, 2023) In: International Journal of Innovative Research in Technology (IJIRT)](https://ijirt.org/Article?manuscript=161161)
- 
-- [**Yuvraj Singh & Harvinder Singh.** Influence of Steel Fibres on the Sorptivity of Corroded Reinforced Concrete.(July, 2023) In: International Journal of Design Engineering (IJDE)](10.1504/IJDE.2023.10054064) 
+- **Dr. Yuvraj Singh** delivered expert talks on:  
+  - “From Richter to Ruin: Understanding Earthquakes and Structural Failures” at IKG PTU Mohali Campus (Aug 22, 2025)  
+  - “Sustainability and Technology Nexus: Pathways to a Resilient Future” at IKG PTU Mohali Campus (Aug 22, 2025)  
+  - “Understanding Structural Vibrations: From Fundamentals to Earthquake Response” at IKG PTU Mohali Campus (Sept 19, 2025)  
+  - “From Carbon Footprints to Carbon Neutrality: The Engineer’s Role in Climate Action” at IKG PTU Mohali Campus (Sept 19, 2025)  
 
-- [Anshul Sharma, **Harvinder Singh, Savleen Takkar, Yuvraj Singh** Comparison of Autogenous Shrinkage Behaviour of Concrete With and Without Steel Fibres.(September, 2023) In: International Research Journal of Engineering and Technology (IRJET)](IRJET-V10I990.pdf)
+## Publications  
 
-- [**Pushpinder Singh, Harvinder Singh, Manvinder Kingra.** The Effect of Openings in the Slab Stiffened with Shallow Beams.(October, 2023) In: International Research Journal of Engineering and Technology (IRJET)](IRJET-V10I1097.pdf)
+- **Harvinder Singh.** Flexural response of vertically cast steel fiber reinforced concrete members. (2025) *Iranian Journal of Science and Technology, Transactions of Civil Engineering.* https://doi.org/10.1007/s40996-025-01828-z
+  
+- **Yuvraj Singh, Manpreet Singh Bains & Harvinder Singh.** Residual strength estimation of corroded RC beams: A predictive maintenance approach. In: *Proceedings of CSIR-SERC Diamond Jubilee Conference on Monitoring, Assessment and Predictive Maintenance of Critical Infrastructure (i-MAP)*, CSIR-SERC Chennai, pp. 163–165 (2025).
+  
+- **Mandeep Kaur & Harpal Singh.** BIM-based automation of structural loads using parametric modeling and IFC for open-source interoperability. (2025) *Journal of Information Systems Engineering and Management*, 10(50s).
 
-- [Manpreet Singh Bains, **Yuvraj Singh, Harvinder Singh** Flexural response of corroded RC member: A review.(August, 2024) In: International Research Journal of Engineering and Technology](IRJET-V11I841.pdf)
+- **Mandeep Kaur & Harpal Singh.** Advancement and Challenges in Building Information Modelling (BIM) in Structural Analysis: A Comprehensive Review. (2024) *Library Progress International*, 44(1), 67–75.
 
-- [**Yuvraj Singh,Harvinder Singh**, Sushil Bhatia. The Effect of Steel Fibers on the Ductility of Reinforced Concrete Beams.(August, 2023) In: Indian Structural Steel Conference 2020](htttps://doi.org/10.1007/978-981-19-9394-7_21)
+- **Manpreet Singh Bains, Yuvraj Singh & Harvinder Singh.** Flexural response of corroded RC members: A review. (2024) *International Research Journal of Engineering and Technology (IRJET)*, 11(8), 271–276.
+  
+- **Pardeep Singh.** A review of slope stability assessment techniques for landslide mitigation. Paper ID 275.
 
-- [Suraj Singh Gill, **Harvinder Singh**, Shear Strength of Concrete Beam Cast using Broken Brick Aggregates. (March, 2023) In: UKIERI Concrete Congress-Sustainable Concrete Infrastructure]()
+## Events Organized  
 
-
-## Conference Organized 
-
-| Sr. No. | Name of Event                                                  | Organising Institute                                                                  | Duration | Date(s)               |                            |
-|:------- |:-------------------------------------------------------------- |:------------------------------------------------------------------------------------ |:-------- |:--------------------- |:-------------------------------------- |
-| 1       | Sustainable Concrete Infrastructure (UKIERI) |NIT, Jalandhar & GNDEC, Ludhiana | 4 days| March 14th-17th,2023 | 
+| Sr. No. | Name of Event | Organising Institute | Date(s) |
+|:------- |:------------- |:------------------- |:------- |
+| 1 | Expert Talk on “Advanced Concrete Solutions: Chemicals, Waterproofing & Repair Technologies” | SIKA India Pvt. Ltd. & GNDEC | April 22, 2025 |
+| 2 | Talk on “The Blueprint for Excellence: A Journey in Civil Engineering” | ACES, GNDEC | September 15, 2025 |
+| 3 | Engineer’s Day Celebration | ACES, GNDEC | September 15, 2025 |
+| 4 | Expert Talk on “Infrastructure Asset Management” | ACES, GNDEC | September 29, 2025 |
+| 5 | Event on “World Standards Day 2025” | ACES & IBC (Punjab Chapter) | October 15, 2025 |
+| 6 | International FDP on Regenerative Design – Transcending Sustainability | GNDEC | Dec 2–6, 2025 |
+| 7 | Activities at Civil Engineering Stall during APEX 2025 | GNDEC | October 30, 2025 |
 
 ## Events Attended (FDPs/Conferences/STCs/SDTs/Workshops/Webinars etc.)  
 
-| Sr. No. | Name of Faculty   | Name of Event                                                                                     | Duration | Date(s)               | Organizing Institute                                         |
-|:------- |:----------------- |:------------------------------------------------------------------------------------------------- |:-------- |:--------------------- |:----------------------------------------------------------- |
-| 1       | H.S.Rai       | Quantum Computing                                                                                     | 6 days   | 18-23 December, 2023  | GNDEC Ludhiana                                                 |
-| 2       | Gurdeepak Singh    | Integrated Urban Water Management                                                                | 6 days   | 18-23 December, 2023      | GNDEC, Ludhiana                                            |
-| 3       | Prashant Garg      | Integrated Urban Water Management                                                                | 6 days   | 18-23 December, 2023      | GNDEC, Ludhianana                                          |
-| 4       | Amandeep Singh      | Integrated Urban Water Management                                                               | 6 days   | 18-23 December, 2023    | GNDEC, Ludhianana                                            |
-| 5       | Charnjeet Singh     | Integrated Urban Water Management                                                               | 6 days   | 18-23 December, 2023    | GNDEC, Ludhianana                                            |
-| 6       | Sukhwinder Singh   | Sustainable and Durable Green Concrete, Future & Applications                                    | 5 days   | 18-22 December,2023    | Dr. B.R. Ambedkar NIT, Jalandhar                              |
-| 7       | Mandeep Kaur      |Structural Equation Modeling: Advances in Research Methodology and Research Publications           | 5 days   | 25-29 December, 2023  | Dr. B.R. Ambedkar NIT, Jalandhar                               |
-| 8       | Yuvraj Singh      | Recent Advances in Concrete Technology & Durability of Concrete Structures                        | 3 days   | 22-24 November, 2023   | CSIR/SERC Chennai                                             |
-| 9       | Prabhjot Singh     | Sustainable and Durable Green Concrete, Future & Applications                                    | 5 days   | 18-22 December, 2023   | Dr. B.R. Ambedkar NIT, Jalandhar                              |
-| 10      | Sandeep Kaur   | Integrated Urban Water Management                                                                    | 6 days   | 18-23 December, 2023   | GNDEC, Ludhiana                                               |
-| 11      | Sandeep Kaur  | Water Resources Management & Fluvial Hydraulics in Steep Mountain Streams                             | 5 days   | 27-31 March, 2024  |Dr. B.R. Ambedkar NIT, Jalandhar                                   |
-| 12      | Manvinder Kingra  | Road Safety & Road Safety Audit                                                                   | 15 days   | 23 November-7 December, 2023  | Transportation Research & Injury Prevention Centre, IIT Delhi |
-| 13      | Manvinder Kingra  | Advance AutoCAD                                                                                   | 5 days   | 15-19 Januray, 2024     | NITTTR Chandigarh                                             |
-| 14      | Sukhwinderpal Singh | Integrated Urban Water Management                                                               | 6 days    | 18-23 December, 2023     | GNDEC, Ludhiana                                             |
-| 15     | Balihar Singh       | Water Resources Management & Fluvial Hydraulics in Steep Mountain Streams                       | 6 days    | 18-23 December, 2023     | GNDEC, Ludhiana                                             |
-| 16     | Avneet Kaur         | Integrated Urban Water Management                                                               | 6 day    | 18-23 December, 2023     | GNDEC, Ludhiana                                              |
-| 17     | Savleen Takkar  | NBA Accreditation and Teaching/Learning in Engineering                                              | 6 days    | 1-6 January, 2024     | GNDEC, Ludhiana                                                |
-| 18    | Jashandeep Singh | Integrated Urban Water Management                                                                  | 6 day    | 18-23 December, 2023     | GNDEC, Ludhiana                                              |
-| 19     | Varinder Singh | NSQF Aligned Curriculum Design and Implementation                                                    | 5 days    | 18-22 September, 2023     | NITTTR, Chandigarh                                         |
+| Sr. No. | Name of Faculty | Name of Event | Duration | Date(s) | Organizing Institute |
+|:------- |:--------------- |:------------- |:-------- |:------- |:-------------------- |
+| 1 | Puneet Pal Singh Cheema | International Symposium on Transforming Waste Management | 2 days | 28-29 November, 2024 | IIT Roorkee |
+| 2 | Gurdeepak Singh | Forensic Engineering of Structures | 5 days | 17-21 March, 2025 | — |
+| 3 | Charnjeet Singh | Sustainable Applications & Research Perspectives in Civil Engineering | 5 days | 7-11 July, 2025 | NIT Jalandhar |
+| 4 | Yuvraj Singh | CSIR-SERC Diamond Jubilee Conference (i-MAP) | 3 days | 21-23 May, 2025 | CSIR-SERC Chennai |
+| 5 | Multiple Faculty | Regenerative Design – Transcending Sustainability | 5 days | 2-6 December, 2024 | GNDEC Ludhiana |
+| 6 | Sukhwinder Singh | Workshop on High Rise Structures | 2 days | 12-13 July, 2025 | NPTEL |
 
-## [Association of Civil Engineering Students - Click Here](ACES.md)
+## Student Achievements  
 
-![aces](Images/aq.jpg)
+1. **Pardeep Kumar** (Mentee: Varinder Singh) – Best Student Award (Research), Foundation Day (8 April 2025).  
+2. **Pardeep Kumar** – Selected as Lieutenant (Army Technical Section).  
+
+## Outreach / Community Activities  
+
+- Faculty involvement in Sustainable Construction Awareness Sessions for contractors and field professionals in association with MRH Associates.  
+
+## Consultancy Cell
+
+- Consultancy Cell achieved the highest revenue of ₹545 Lakh.  
+ 
+## Photo Gallery  
+
+## Regenerative Design: Transcending Sustainability  
+
+![Regenerative Design](Images/Regenerative_Design.jpg)
+

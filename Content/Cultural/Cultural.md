@@ -36,6 +36,16 @@ Open air theatre is a central point of attraction for the students where various
 
 ## Achievements
 
+- 2026
+    - College represented IKGPTU and Won 4th Prize in Folk Dance (Bhangra) in North Zone Inter-Varsity Youth Festival held at Chitkara University, Rajpura, Punjab
+
+- 2025
+    - College represented IKGPTU and Won 1st Runner-Up in Bhangra in Punjab State Inter-Varsity held at Guru Nanak Dev University, Amritsar
+    
+    - College Won Overall Trophy in IKGPTU Zonal Youth Festival held at Guru Teg Bahadur Institute of Management & Technology, Dakha
+    
+    - College Won 1st prize in Folk Song Singing at Ik Tara Competition held at Dr. B R Ambedkar National Institute of Technology, Jalandhar
+
 - 2024
     - College Won 3rd Prize in Ravaiti Pehrava, and also participated in Jhoomar, Giddha, and Folk Song in Punjab State Inter University Youth Festival held at Punjab Agriculture University, Ludhiana
     

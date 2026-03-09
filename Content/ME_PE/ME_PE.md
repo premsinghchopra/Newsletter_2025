@@ -181,19 +181,111 @@ The award was presented by the **GNDEC Alumni President** in the presence of the
 |27 | **Prof. Arshpreet Kaur** | Green Manufacturing | 24–28 Feb 2025 | NITTTR Chandigarh |
 
                                                                     
-## Industry Institute Meet Organized
+## Inauguration of Skill Development Centre
 
-<p align=justify>
+<p align="justify">
 
-In collaboration with Blue Star India, a skill development center was inaugurated in mechanical and Production Engineering Department on 20th January, 2026.  Er. Akshat Sharma, Assistant Vice President, Blue Star Ltd. India was chief gust for the inauguration ceremony. This is the first such center in North India. This facility will be utilized for training of the staff and students in the field of refrigeration and Air conditioning.
-Prof. Harmeet Singh (HOD MPE) and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the participants. Prof. Lakhvir Singh Khana highlighted the objectives of the skill development center. Prof. Davinder Singh Bhogal proposed the vote of Thanks. 
+In collaboration with Blue Star India, a skill development center was inaugurated in Mechanical and Production Engineering Department on 20 January 2026. 
+Er. Akshat Sharma, Assistant Vice President, Blue Star Ltd., India was the chief guest for the inauguration ceremony. This is the first such center in North India. 
+This facility will be utilized for training of the staff and students in the field of Refrigeration and Air Conditioning.
+
+Prof. Harmeet Singh (HOD MPE) and Dr. Sehijpal Singh (Principal, GNDEC) welcomed the participants. 
+Prof. Lakhvir Singh Khana highlighted the objectives of the skill development center. 
+Prof. Davinder Singh Bhogal proposed the vote of thanks.
 
 </p>
 
-![PSB](Images/MEET.png) 
+<p align="center">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Skill1.jpeg" width="23%">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Skill2.jpeg" width="23%">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Skill3.jpeg" width="23%">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Skill4.jpeg" width="23%">
+</p>
 
+## Faculty FANUC Industrial Visit
 
-## Student Activities
+<p align="justify">
+
+Dr. Harmeet Singh, Dr. Harnam Singh Farwaha and Er. Lakhvir Singh Khana from the Department of Mechanical and Production Engineering visited FANUC India Limited, Manesar on 19 February 2026 for exploring recent advancements in robotics and automation.
+
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/F1.jpeg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/F2.jpeg" width="300" height="300">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/F3.jpeg" width="300" height="300">
+</p>
+
+## AICTE-VAANI  SPONSORED WORKSHOP
+
+<p style="text-align:justify;">
+
+Mech. and Prod. Engg. Deptt. and Applied Sciences Deptt. of GNDEC jointly organised a three-day AICTE-VAANI sponsored workshop titled “Next-Gen Innovations in Advanced Materials: A Multisectoral Approach” from October 9th to 11th, 2025. The event aimed to promote the use of Punjabi language in education while fostering collaboration between academia, research, and industry. Coordinated by Dr. Rajvir Kaur Sraw and co-coordinated by Dr. Lakhveer Singh Khana, the workshop featured expert lectures from renowned academicians and industry professionals. The workshop was inaugurated by Dr. Amarjit Singh Grewal, who captivated the audience by sharing his rich experience in materials science and reciting a thought-provoking poem on the transformative power of advanced materials, highlighting their role in shaping sustainable and innovative futures.
+
+</p>
+<p align="justify">
+
+<table align="center" border="0" cellpadding="0" cellspacing="0" style="border:none;">
+<tr>
+
+<td align="center" style="border:none;">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Vani%201.jpeg" width="300" height="300"><br>
+<b>Inauguration Ceremony</b>
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Vani%202.jpeg" width="300" height="300"><br>
+<b>Valedictory Session</b>
+</td>
+
+<td align="center" style="border:none;">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Vani%203.jpeg" width="300" height="300"><br>
+<b>Organizing Committee</b>
+</td>
+
+</tr>
+</table>
+
+## National IP Yartra - 2026
+
+<p align="justify">
+
+One day event on Intellectual Property (IP) was organized by the Mechanical and Production Engineering Department in collaboration with Auto Parts Manufacturers Association (India) on 6th February, 2026 at GNDEC, Ludhiana. The main aim of the event was to create awareness about IP protection challenges, strategizing and monetising IP, and various IP related schemes among students and staff.
+
+</p>
+
+<table align="center">
+<tr>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/IP1.jpeg" width="300" height="300"><br>
+<b>Welcome of Chief Guest</b>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/IP2.jpeg" width="300" height="300"><br>
+<b>Inauguration Ceremony</b>
+</td>
+
+<td align="center">
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/IP3.jpeg" width="300" height="300"><br>
+<b>Participants during the Event</b>
+</td>
+
+</tr>
+</table>
+
+## SWAYAM-NPTEL Felicitation Workshop
+
+<img src="https://raw.githubusercontent.com/premsinghchopra/Newsletter_2025/main/Content/ME_PE/Images/Khana1.jpeg" align="right" width="400" style="margin-left:15px; margin-bottom:10px;">
+
+<p style="text-align:justify;">
+
+Prof. Lakhveer Singh Khana, SPOC, SWAYAM-NPTEL Local Chapter of GNDEC, was invited to the SPOC Felicitation Workshop organized by NPTEL, held on 12 July 2025 at the Main Auditorium, IIT Kanpur. During the workshop, he was awarded the title of <b>ACTIVE SPOC</b> in recognition of his contributions. The workshop was organized under the leadership of Prof. Satyaki Roy, National Coordinator, NPTEL and Head, Media Technology Center and Department of Design, IIT Kanpur; Ms. Bharathi Balaji, Head Operations, NPTEL IIT Madras; and Dr. Angana Sengupta, Senior Project Scientist, NPTEL, IIT Kanpur. 
+
+During the event, Prof. Khana also discussed future joint ventures with NPTEL aimed at improving the quality of education. His efforts toward the translation of technical content into regional languages were highly appreciated by the NPTEL team.
+
+</p>
 
 ## 1. VEHICLE LAUNCH EVENT:
 
